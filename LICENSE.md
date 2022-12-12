@@ -1,3 +1,4 @@
+Copyright (c) 2013-2022 Andreas Neuhaus
 Copyright (c) 2018-2022 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
