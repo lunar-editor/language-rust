@@ -2,6 +2,8 @@ describe 'Rust grammar', ->
   grammar = null
 
   beforeEach ->
+    atom.config.set('core.useTreeSitterParsers', false)
+
     waitsForPromise ->
       atom.packages.activatePackage('language-rust')
     runs ->
